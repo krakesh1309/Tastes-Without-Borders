@@ -232,7 +232,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any queries or support, please contact:
 - **Name**: Rakesh
-- **Email**: sprakesh4114@example.com
+- **Email**: sprakesh4114@gmail.com
 - **GitHub**: [ krakesh1309](https://github.com/krakesh1309)
 
 ---
